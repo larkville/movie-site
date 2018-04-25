@@ -207,9 +207,12 @@ h4{
 
 #pathretreats {
 	background-image: url(../images/paths-1280x600.jpg);   
-    color: #000000;
 	}
 
+#pathretreats p{
+	color: #ffffff;
+	margin-top: 0px;
+}
 
 	
 .inside p{
@@ -246,7 +249,7 @@ h4{
 
 #reachout {
 	background-image: url(../images/mountain_scape-1280x600.jpg); 
-    color: #000000;
+    color: #ffffff;
 	}
 
 
@@ -284,11 +287,9 @@ margin-right: 80px;
 	padding-bottom: 20px;
 	}
 
-.formFooter{
-    display: none;
-}
 
 #video {
+	width: 80%;
 	width: 80%;
 	height: 600px;
 }
